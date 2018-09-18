@@ -1,0 +1,17 @@
+body {
+  background: black;
+}
+
+#header {
+  color: white;
+  text-align: center;
+}
+
+#form-giphy {
+  text-align: center;
+}
+
+#giphies-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
